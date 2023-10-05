@@ -51,6 +51,7 @@ for i in message5:
     else:
         message5_new+=i    
 print("")
+#Mostrar los resultados
 print("El primer mensaje queda asi: ", message1_new)
 print("El segundo mensaje queda asi: ", message2_new)
 print("El tercer mensaje queda asi: ", message3_new)
